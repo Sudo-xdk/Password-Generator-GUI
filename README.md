@@ -69,15 +69,6 @@ Run with:
 ```
 streamlit run password_generator.py
 ```
----
-📂 Project Structure
-Password-Generator-GUI/
-├── password_generator.py     # Main Streamlit GUI app
-├── password_generator.sh     # Linux launcher with ASCII banner
-├── install_deps.sh           # Linux dependency installer
-├── requirements.txt          # Python dependencies
-├── README.md                 # Project documentation
-└── .gitignore                # Ignore cache & venv files
 
 
 
