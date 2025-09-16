@@ -30,6 +30,14 @@ cd Password-Generator-GUI
 ```
 chmod +x password_generator.sh
 ```
+# Create venv inside your project
+```
+python3 -m venv .venv
+```
+# Activate it
+```
+source .venv/bin/activate
+```
 # Install dependencies
 ```
 pip install -r requirements.txt
